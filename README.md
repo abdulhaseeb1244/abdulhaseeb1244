@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 🌱 I'm Abdul Haseeb, Aspiring software developer pursuing a Bachelor of Computer Science at Salim Habib University.
+ 🌱 I'm Abdul Haseeb, Aspiring software developer persuing a Bachelor of Computer Science at Salim Habib University.
 
  </div>
  
