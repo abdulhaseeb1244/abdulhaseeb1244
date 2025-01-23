@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 🌱 I'm Abdul Haseeb, Persuing a Bachelor of Computer Science at Salim Habib University.
+ 🌱 I'm Abdul Haseeb, Persuing Bachelor of Computer Science at Salim Habib University.
 
  </div>
  
