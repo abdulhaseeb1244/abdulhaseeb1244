@@ -8,8 +8,7 @@
 
 <div align="center">
  
- 🌱 I'm Abdul Haseeb, Persuing Bachelor of Computer Science at Salim Habib University.
-
+ 🌱 I am Abdul Haseeb, currently pursuing a Bachelor's degree in Computer Science at the Institute of Business Management (IoBM), with a strong passion for technology, software development, and innovative problem-solving.
  </div>
  
 <div align="center"> 
